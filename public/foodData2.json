@@ -1,0 +1,86 @@
+[
+    {
+        "CategoryName": "Healthy Bowl",
+        "name": "Quinoa Salad",
+        "img": "https://cookieandkate.com/images/2017/08/best-quinoa-salad-recipe-3-550x757.jpg",
+        "options": [
+            {
+                "small": "150",
+                "large": "250"
+            }
+        ],
+        "description": "A fresh mix of quinoa, vegetables, and herbs, tossed in a light vinaigrette."
+    },
+    {
+        "CategoryName": "Healthy Bowl",
+        "name": "Chickpea and Avocado Salad",
+        "img": "https://www.skinnytaste.com/wp-content/uploads/2017/09/Chickpea-Avocado-Salad-1-2.jpg",
+        "options": [
+            {
+                "small": "140",
+                "large": "240"
+            }
+        ],
+        "description": "Creamy avocado and protein-packed chickpeas combined with fresh vegetables and a lemon dressing."
+    },
+    {
+        "CategoryName": "Healthy Bowl",
+        "name": "Sweet Potato and Black Bean Bowl",
+        "img": "https://plantbasedrdblog.com/wp-content/uploads/2023/03/sweet-potato-black-bean-bowl_feat.jpg",
+        "options": [
+            {
+                "small": "160",
+                "large": "280"
+            }
+        ],
+        "description": "Roasted sweet potatoes and black beans served over a bed of greens with a tangy salsa."
+    },
+    {
+        "CategoryName": "Vegan Snacks",
+        "name": "Stuffed Bell Peppers",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/family-meal-ideas-stuffed-bell-peppers-65a177e8beda4.jpeg?resize=1200:*",
+        "options": [
+            {
+                "small": "120",
+                "large": "200"
+            }
+        ],
+        "description": "Bell peppers filled with a savory mixture of quinoa, black beans, and spices."
+    },
+    {
+        "CategoryName": "Vegan Snacks",
+        "name": "Lentil Soup",
+        "img": "https://www.recipetineats.com/tachyon/2017/03/Lentil-Soup-6-1.jpg?resize=900%2C1260&zoom=1",
+        "options": [
+            {
+                "bowl": "100",
+                "large": "180"
+            }
+        ],
+        "description": "A hearty and comforting soup made with lentils, vegetables, and herbs."
+    },
+    {
+        "CategoryName": "Vegan Snacks",
+        "name": "Roasted Chickpeas",
+        "img": "https://cookinglsl.com/wp-content/uploads/2015/02/roasted-chickpeas-salad-edited-5-1.jpg",
+        "options": [
+            {
+                "small": "80",
+                "large": "140"
+            }
+        ],
+        "description": "Crunchy roasted chickpeas seasoned with a blend of spices."
+    },
+    {
+        "CategoryName": "Vegan Snacks",
+        "name": "Green Smoothie",
+        "img": "https://www.skinnytaste.com/wp-content/uploads/2023/04/Green-Smoothie-Bowl-5.jpg",
+        "options": [
+            {
+                "small": "90",
+                "large": "160"
+            }
+        ],
+        "description": "A refreshing smoothie packed with spinach, banana, and a splash of almond milk."
+    }
+]
